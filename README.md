@@ -27,14 +27,6 @@ Professor, pesquisador e artista dedicado a conectar arte, cultura, educação e
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![Marcelino's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelothigana&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelothigana&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 💡 Frase que me guia
 
 > *"A dança não é apenas arte — é instrumento de educação, cultura, saúde e desenvolvimento humano."*
